@@ -1,0 +1,4 @@
+- 👋 Hola, yo soy @jannethrojas
+- 👀 Estoy interesada en aprender a cargar mi primer repositorio 
+- 💞️ Tengo la colaboración de un profesor
+- 📫 Mi primer repositorio se trata del curso HTML visto en Udemy
